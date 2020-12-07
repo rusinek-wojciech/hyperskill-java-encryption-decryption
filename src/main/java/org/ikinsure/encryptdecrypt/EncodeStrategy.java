@@ -1,4 +1,4 @@
-package org.ikinsure.medium.encryptdecrypt;
+package org.ikinsure.encryptdecrypt;
 
 public class EncodeStrategy {
 

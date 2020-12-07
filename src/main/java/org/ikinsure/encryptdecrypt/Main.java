@@ -1,4 +1,4 @@
-package org.ikinsure.medium.encryptdecrypt;
+package org.ikinsure.encryptdecrypt;
 
 import java.io.FileWriter;
 import java.io.IOException;
